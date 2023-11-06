@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Quantum3566
-- 👀 I’m interested in creating malwares
+- 👀 I’m interested in expanding my knowledge in C/C++
 - 🌱 I’m currently learning C/C++ and C#
-- 💞️ I’m looking to collaborate on some famous people
-- 📫 How to reach me undefinedcode
-- 10/22/23 6:59 EST
+- 💞️ I’m looking to collaborate on some of my idols.
+- 📫 How to reach me undefinedcode#0
 
 <!---
 Quantum3566/Quantum3566 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
