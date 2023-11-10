@@ -16,7 +16,7 @@ Some repositories are currently private and won't go public soon as they're on h
 - [passwordGenerator](https://bit.ly/passGen) (present) &#x2192; Hobbyist password generator. Just a little project.
 
 ## 🌍 socials
-- youtube: [`@undefinedcode0`](https://www.youtube.com/@undefinedcode)
+- youtube: [`@undefinedcode0`](https://www.youtube.com/@undefinedcode0)
 - discord: `@undefinedcode`
 <!---
 Quantum3566/Quantum3566 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
