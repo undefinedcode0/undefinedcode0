@@ -5,7 +5,7 @@
 **Hobbyist program maker**
 
 - ⚙ Low developer, intermediete in C,C#, C++, HTML, Python, JS and x86 Assembly. I still have lots to learn.
-- ✨ Interested in **Coding Useful Programs**, **Basic Programs like a calculator**.
+- ✨ Interested in **Coding Useful Programs\Tools**, **Basic Programs**.
 
 Most of my repositories on here are private, I don't do much.
 
