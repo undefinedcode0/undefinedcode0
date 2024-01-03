@@ -8,7 +8,7 @@ I've been interested in tech and coding since I was little.
 
 * ✉️  You can contact me at [techeveryware@gmail.com](mailto:techeveryware@gmail.com)
 * 🚀  I'm currently working on [an advanced calculator with working PEMDAS.](http://github.com/undefinedcode0/advancedCalculator)
-* 🧠  I'm learning C++ and C
+* 🧠  I'm learning C++, C and JS
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
