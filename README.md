@@ -6,7 +6,7 @@ Low-level Developer and a Tech Savvy
 
 I've been interested in tech and coding since I was little.
 
-* ✉️  You can contact me at [techeveryware@gmail.com](mailto:techeveryware@gmail.com)
+* ✉️  You can contact me at [nullexpection.mail@gmail.com](mailto: nullexpection.mail@gmail.com)
 * 🚀  I'm currently working on [an advanced calculator with working PEMDAS.](http://github.com/undefinedcode0/advancedCalculator)
 * 🧠  I'm learning C++ and C
 * 🤝  I'm open to collaborating on interesting projects
