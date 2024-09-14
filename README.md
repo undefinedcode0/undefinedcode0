@@ -2,7 +2,7 @@
 ### _**Let your worries be, do not be afraid.**_
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=undefinedcode0&theme=catppuccin-mocha&hide_border=true&border_radius=30)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=undefinedcode0&theme=catppuccin-mocha&hide_border=true&border_radius=20&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <h2 align="left">
     <a href=https://octo-ring.com/p/undefinedcode0/random>
            random
