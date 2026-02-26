@@ -4,7 +4,7 @@
 
 <h4> Last.FM </h4>
     <br>
-<a href="https://www.last.fm/user/h4rl3h">
+<a href="https://www.last.fm/user/undefinedcode0">
     <img src="https://lastfm-recently-played.vercel.app/api?user=undefinedcode0&count=1" alt="LastFM" />
 </a>
 
